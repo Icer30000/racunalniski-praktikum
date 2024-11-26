@@ -9,6 +9,6 @@
 *.out
 *.pdf
 *.pyc
-*.synctex.gz
-*.jpg
+*synctex.gz
+*.png
 *.bib
