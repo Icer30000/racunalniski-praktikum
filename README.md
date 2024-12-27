@@ -31,6 +31,11 @@ Včasih pride prav značka ```kbd``` za tipke. Značko uporabimo takole:
 - [ ] Imenik z repozitorijem stisnite v arhiv, ga preimenujte v nekaj oblike `ImePriimek.zip` in ga oddajte na učilnico.
 
 <!-- 2. nivojski razdelek -->
+
+# Spletna Stran
+
+[Moja spletna stran](https://icer30000.github.io)
+
 ## Uporabne povezave
 
 1. [FMF učilnica](https://ucilnica.fmf.uni-lj.si/)
